@@ -1,6 +1,6 @@
 ## Marcus Gardiner
 
-[Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [LinkedIn](https://www.linkedin.com/in/marcus-gardiner-a7131a56/) | [Blog](https://medium.com/@marcusfgardiner)
+[Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Personal Interests](#Experience) | [Experience](#Experience) | [LinkedIn](https://www.linkedin.com/in/marcus-gardiner-a7131a56/) | [Blog](https://medium.com/@marcusfgardiner)
 
 I am an enthusiastic Junior Developer with the business acumen, communication and delivery skills of a seasoned Management Consultant. I pride myself on software craftsmanship and I am driven by learning.
 
@@ -27,32 +27,34 @@ Project | Description | Heroku & GitHub | Technologies Used | Testing Technologi
 * **Version Control:** Git, Github
 * **APIs, Packages, Other:** Twilio API, Heroku, jQuery, OAuth, Devise
 
-
-
-------------------------------------
-
-I am an analytical Strategy and Operations management consultant at Deloitte, who's unique skillset is an ability to rapidly learn and apply new technical skills and knowledge whilst establishing meaningful relationships as a trusted part of a team and advisor to my clients.
-
-As a consultant I independently lead and delivered work streams in international consulting deployments in London, Brazil, Holland and Belgium for over 15 global multinationals; analysed, visualised, presented and actioned findings for 300m+ lines of data using VBA, SQL, Tableau and Qlikview; delivered presentations to groups of 30+ people in hedge funds to FTSE 100 companies and automated business processes at FTSE 100 companies by working with developers using SQL, VBA and Blue Prism.
-
-#### Technical and Analytical
-
-My work In Deloitte's consulting practice has been defined by the technical and analytical edge I have rapidly developed and delivered upon in my client engagements. I am unique in my operating unit in having delivered engagements by using/managing others in using a broad range of technical tools (VBA, SQL, Tableau, Qlikview and Blue Prism).
-
-I have used these skills to deliver analytics and automation projects at some of the world's largest companies. At a Global top 10 consumer business company, I self-taught SQL in order to prove to the team we needed to use it to succeed; and then went on to manage 2 SQL developers and client stakeholders in analysing over 100 million rows of data whilst simultaneously building a leading-edge data visualisation model in Qlikview - leading to the identification and delivery phase of £200m+ in working capital opportunities. At a Global top 10 pharmaceutical company, I went from having never seen code to co-developing a tool in excel VBA that turned a 5 day data preparation process that included inputs and work from 8 people into one button click.
-
-
 #### Delivering complex projects
 
-As a consultant I independently lead and delivered work streams in international consulting deployments in London, Brazil, Holland and Belgium for over 15 global multinationals.
+As a consultant I independently lead and delivered work streams in the UK, Brazil, Holland, Belgium and Denmark for over 15 global multinationals.
 
-Most recently, I delivered the South America work stream for a complex operations change project at a FTSE 100 company. I managed and delivered the work stream end-to-end as the point of contact for all stakeholders (including the client lead); creating and delivering content for 12 workshops; facilitating 3 training courses and conducting all aspects of project planning and delivery.
+**Key achievement:** I managed and delivered the entire South America work stream for a complex operations change project at a FTSE 100 company:
+* Conducted all aspects of project planning and delivery
+* Point of contact for all stakeholders including Brazil General Manager
+* Created and delivered content for 12 workshops
+* Facilitated 3 training courses for 60+ staff
+* Successfully transitioned the LATAM business to a new, technology-supported process in 3 months
+
+#### Self-directed learning
+
+My work In Deloitte's consulting practice was defined by the technical and analytical edge I rapidly self-taught and delivered upon in my client engagements.
+
+**Key achievements:**
+  * Global top 5 consumer business company:
+	* I self-taught SQL in order to prove to Deloitte leadership that we needed to use it to succeed
+	* Managed two SQL developers, two consultants and six client stakeholders in analysing and visualising over 100 million rows of data
+	* The project lead to the identification and delivery of £200m+ in working capital opportunities
+  * Global top 10 pharmaceutical company:
+	* Having never coded before, I co-developed a tool in excel VBA that turned a 5 day data preparation process involving 8 people into one button click
 
 #### Relationships and teamwork
 
-Consistently, the brightest points of my working day are the breakthrough moments I have in my relationships with the people I work with. In terms of my personal growth, the central theme has been the mentors I have had and the people I have been lucky enough to mentor: they have helped me think differently, perform as my best self and ultimately be myself.
+The brightest points of my working day are the breakthrough moments I have in relationships and teams. The central theme for my personal growth has been the mentors I have had and the people I have been lucky enough to mentor: they have helped me think differently, perform as my best self and ultimately be myself.
 
-At Deloitte I took great pride in learning and then demystifying analytical and technical skills for colleagues and clients. I led the development and delivery of the Strategy & Operations Analytics Bootcamp to over 200 consultants.
+**Key achievement:** I took great pride in learning and then demystifying technical skills for my colleagues and clients at Deloitte. In 2017, I led the development and delivery of a brand new Strategy & Operations Analytics Bootcamp for over 200 consultants.
 
 ## Education
 
