@@ -29,7 +29,7 @@ Project | Description | Heroku & GitHub | Technologies Used | Testing Technologi
 
 #### Delivering complex projects
 
-As a consultant I independently lead and delivered work streams in the UK, Brazil, Holland, Belgium and Denmark for over 15 global multinationals.
+As a consultant I lead and delivered work streams in the UK, Brazil, Holland, Belgium and Denmark for over 15 global multinationals.
 
 * **Key achievement:** I managed and delivered the entire South America work stream for a complex operations change project at a FTSE 100 company:
   * Conducted all aspects of project planning and delivery
@@ -44,9 +44,9 @@ My work In Deloitte's consulting practice was defined by the technical and analy
 
 * **Key achievements:**
   * Global top 5 consumer business company:
-	* I self-taught SQL in order to prove to Deloitte leadership that we needed to use it to succeed
+	* I self-taught SQL to prove to Deloitte leadership that we needed to use it to succeed
 	* Managed two SQL developers, two consultants and six client stakeholders in analysing and visualising over 100 million rows of data
-	* The project lead to the identification and delivery of £200m+ in working capital opportunities
+	* Identified £200m+ in working capital opportunities
   * Global top 10 pharmaceutical company:
 	* Having never coded before, I co-developed a tool in excel VBA that turned a 5 day data preparation process involving 8 people into one button click
 
