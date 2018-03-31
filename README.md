@@ -59,7 +59,7 @@ The brightest points of my working day are the breakthrough moments I have in re
 ## Education
 
 #### Makers Academy (2017 - 2018)
-**Marcus joined Makers Academy as the MA & ETC Coding Competition Winner (2017)**
+[**Marcus joined Makers Academy as the MA & ETC Coding Competition Winner (2017)**](https://medium.com/escape-work/consultant-to-coder-3773e5d3a073)
 
 Makers Academy is Europe's leading and most selective development bootcamp, a 16-week intensive course focusing on:
 * Software Craftsmanship
