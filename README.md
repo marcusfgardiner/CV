@@ -31,18 +31,18 @@ Project | Description | Heroku & GitHub | Technologies Used | Testing Technologi
 
 As a consultant I independently lead and delivered work streams in the UK, Brazil, Holland, Belgium and Denmark for over 15 global multinationals.
 
-**Key achievement:** I managed and delivered the entire South America work stream for a complex operations change project at a FTSE 100 company:
-* Conducted all aspects of project planning and delivery
-* Point of contact for all stakeholders including Brazil General Manager
-* Created and delivered content for 12 workshops
-* Facilitated 3 training courses for 60+ staff
-* Successfully transitioned the LATAM business to a new, technology-supported process in 3 months
+* **Key achievement:** I managed and delivered the entire South America work stream for a complex operations change project at a FTSE 100 company:
+  * Conducted all aspects of project planning and delivery
+  * Point of contact for all stakeholders including Brazil General Manager
+  * Created and delivered content for 12 workshops
+  * Facilitated 3 training courses for 60+ staff
+  * Successfully transitioned the LATAM business to a new, technology-supported process in 3 months
 
 #### Self-directed learning
 
 My work In Deloitte's consulting practice was defined by the technical and analytical edge I rapidly self-taught and delivered upon in my client engagements.
 
-**Key achievements:**
+* **Key achievements:**
   * Global top 5 consumer business company:
 	* I self-taught SQL in order to prove to Deloitte leadership that we needed to use it to succeed
 	* Managed two SQL developers, two consultants and six client stakeholders in analysing and visualising over 100 million rows of data
@@ -54,7 +54,7 @@ My work In Deloitte's consulting practice was defined by the technical and analy
 
 The brightest points of my working day are the breakthrough moments I have in relationships and teams. The central theme for my personal growth has been the mentors I have had and the people I have been lucky enough to mentor: they have helped me think differently, perform as my best self and ultimately be myself.
 
-**Key achievement:** I took great pride in learning and then demystifying technical skills for my colleagues and clients at Deloitte. In 2017, I led the development and delivery of a brand new Strategy & Operations Analytics Bootcamp for over 200 consultants.
+* **Key achievement:** I took great pride in learning and then demystifying technical skills for my colleagues and clients at Deloitte. In 2017, I led the development and delivery of a brand new Strategy & Operations Analytics Bootcamp for over 200 consultants.
 
 ## Education
 
