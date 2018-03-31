@@ -27,7 +27,7 @@ Project | Description | Heroku & GitHub | Technologies Used | Testing Technologi
 * **Version Control:** Git, Github
 * **APIs, Packages, Other:** Twilio API, Heroku, jQuery, OAuth, Devise
 
-#### Delivering complex projects
+### Delivering complex projects
 
 As a consultant I independently lead and delivered work streams in the UK, Brazil, Holland, Belgium and Denmark for over 15 global multinationals.
 
@@ -38,7 +38,7 @@ As a consultant I independently lead and delivered work streams in the UK, Brazi
 * Facilitated 3 training courses for 60+ staff
 * Successfully transitioned the LATAM business to a new, technology-supported process in 3 months
 
-#### Self-directed learning
+### Self-directed learning
 
 My work In Deloitte's consulting practice was defined by the technical and analytical edge I rapidly self-taught and delivered upon in my client engagements.
 
@@ -50,7 +50,7 @@ My work In Deloitte's consulting practice was defined by the technical and analy
   * Global top 10 pharmaceutical company:
 	* Having never coded before, I co-developed a tool in excel VBA that turned a 5 day data preparation process involving 8 people into one button click
 
-#### Relationships and teamwork
+### Relationships and teamwork
 
 The brightest points of my working day are the breakthrough moments I have in relationships and teams. The central theme for my personal growth has been the mentors I have had and the people I have been lucky enough to mentor: they have helped me think differently, perform as my best self and ultimately be myself.
 
@@ -58,7 +58,7 @@ The brightest points of my working day are the breakthrough moments I have in re
 
 ## Education
 
-#### Makers Academy (2017 - 2018)
+### Makers Academy (2017 - 2018)
 [**Marcus joined Makers Academy as the MA & ETC Coding Competition Winner (2017)**](https://medium.com/escape-work/consultant-to-coder-3773e5d3a073)
 
 Makers Academy is Europe's leading and most selective development bootcamp, a 16-week intensive course focusing on:
@@ -69,7 +69,7 @@ Makers Academy is Europe's leading and most selective development bootcamp, a 16
 * Pair Programming
 * XP Values
 
-#### Exeter University (2010 - 2013)
+### Exeter University (2010 - 2013)
 
 * **1st Class Honours - BA Economics**
 	* **Academic Awards** (awarded to less than top 3% of students)
@@ -86,10 +86,10 @@ Makers Academy is Europe's leading and most selective development bootcamp, a 16
 
 ## Personal Interests
 
-#### Winston Churchill Fellow (2018) - Digital Solutions to Mental Healthcare
+### Winston Churchill Fellow (2018) - Digital Solutions to Mental Healthcare
 My passion for applying digital solutions to solve real world problems extends beyond my work and education. In 2018 I will travel to the USA as a Winston Churchill and Mental Health Foundation Fellow to research the uses of digital technology to support good mental health.
 
-#### [Coding Blog](https://medium.com/@marcusfgardiner) published by Hacker Noon and freeCodeCamp
+### [Coding Blog](https://medium.com/@marcusfgardiner) published by Hacker Noon and freeCodeCamp
 I wrote a blog alongside my intensive course at Makers, which was read over 12,000 times and published by Makers Academy, Hacker Noon and freeCodeCamp.
 
 ## Experience
