@@ -2,6 +2,18 @@
 
 [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [LinkedIn](https://www.linkedin.com/in/marcus-gardiner-a7131a56/) | [Blog](https://medium.com/@marcusfgardiner)
 
+I am a Junior Developer with the business acumen, communication and delivery skills of a seasoned Management Consultant. I pride myself on software craftsmanship and I am driven by learning.
+
+I am a Software Developer with the business acumen, communication and delivery skills of a Management Consultant. I pride myself on software craftsmanship and I am driven by learning.
+
+Following 4 years as a Strategy & Operations Consultant at Deloitte, I took part in and won the 150+ hour Makers Academy & ETC Coding Competition. I loved the intensive 16 week bootcamp that followed. I am looking to work as part of a cutting-edge team to solve difficult logical challenges and be a part of shaping and building what is technologically possible.
+
+Following 4 years as a Strategy & Operations Consultant at Deloitte, I took part in and won the 150+ hour Makers Academy & ETC Coding Competition. In the intensive 16 week bootcamp that followed, I loved developing my craft in an environment where the aspiration was to hone my craft. I am looking to work as part of a cutting-edge team to solve difficult logical challenges and be a part of shaping and building what is technologically possible.
+
+My passion for applying digital solutions to solve real world problems extends beyond my work and education. I will travel to the USA in 2018 as a Winston Churchill and Mental Health Foundation Fellow to research the uses of digital technology to support good mental health.
+
+------------
+
 I am an analytical Strategy and Operations management consultant at Deloitte, who's unique skillset is an ability to rapidly learn and apply new technical skills and knowledge whilst establishing meaningful relationships as a trusted part of a team and advisor to my clients.
 
 I have independently lead and delivered work streams in international consulting deployments in London, Brazil, Holland and Belgium (and have worked at 15+ global multinationals); analysed, visualised, presented and actioned findings for 300m+ lines of data using VBA, SQL, Tableau and Qlikview; delivered presentations to groups of 30+ people in hedge funds to FTSE 100 companies and automated business processes at FTSE 100 companies by working with developers using SQL, VBA and Blue Prism.
@@ -21,35 +33,11 @@ Project | Description | Heroku & GitHub | Technologies Used | Testing Technologi
 
 ## Skills
 
-Core Tech Skills : ReactJS, Node.js, JavaScript, Express, Ruby, Rails, Sinatra, HTML, SASS, CSS, jQuery, PostgreSQL, ActiveRecord, OAuth, Devise, Git, Github
-Testing technologies: Jest, Nightwatch, RSpec, Capybara, Mocha, Chai, Zombie
-
-• Independent learning and problem-solving
-• Agile methodologies, TDD, BDD
-• Pair programming
-• Version control with Git and Github
-• Object­ oriented programming
-• JavaScript, jQuery, AJAX
-• Ruby & Ruby on Rails
-• Ruby Gems (such as Devise, CarrierWave, RuboCop, Database Cleaner)
-• HTML, CSS, Bootstrap
-• Testing with RSpec, Capybara, Jasmine, Mocha, Chai
-• Sinatra
-• Rapid deployment with Heroku
-• PostgreSQL, DataMapper & Active Record
-• APIs such as Twilio & Google Maps
-- TDD and OOP
-- Pair Programming
-- MVC, DDD
-- Agile/XP values
-- Ruby, Rails, Sinatra, JavaScript, MongoDB, Express, React, Node
-- RSpec, Jasmine, Capybara, Jest, Mocha, Chai
-- HTML5/CSS
-OOP, TDD, SOLID, MVC, DDD, Agile
-Software Craftsmanship
-Ruby, Rails, Javascript, Node.js
-Rspec, Jasmine, Mocha
-HTML, CSS, jQuery
+* **Core Technologies:** JavaScript, ReactJS, Node.js, Express, Ruby, Rails, Sinatra, HTML, SASS, CSS
+* **Testing technologies:** Jest, Nightwatch, RSpec, Capybara, Mocha, Chai, Zombie
+* **Databases:** PostgreSQL, ActiveRecord, TablePlus, SQL Server, Datamapper
+* **Version Control:** Git, Github
+* **APIs, Packages, Other:** Twilio API, Heroku, jQuery, OAuth, Devise
 
 #### Technical and Analytical
 
@@ -73,8 +61,10 @@ I have always tried to follow what I have been most interested at work, so being
 
 ## Education
 
-#### Makers Academy (May - June 2017)
-Europe's leading and most selective development bootcamp, a 16-week intensive course focusing on:
+#### Makers Academy (2017 - 2018)
+**Marcus joined Makers Academy as the MA & ETC Coding Competition Winner (2017)**
+
+Makers Academy is Europe's leading and most selective development bootcamp, a 16-week intensive course focusing on:
 * Software Craftsmanship
 * Agile Methodologies
 * Object-oriented Design
@@ -82,14 +72,14 @@ Europe's leading and most selective development bootcamp, a 16-week intensive co
 * Pair Programming
 * XP Values
 
-#### Exeter University (2010 to 2013)
+#### Exeter University (2010 - 2013)
 
-- 1st Class Honours - BA Economics
+- **1st Class Honours - BA Economics**
 	- 1st Class grade achieved in every graded module
-	- Academic Awards (awarded to less than top 3% of students)
+	- **Academic Awards** (awarded to less than top 3% of students)
 		- School Commendation for 'Outstanding Academic Performance' [2013]
 		- Successive Dean's commendations for 'Outstanding Achievement' [2012, 2011]
-	- Extra Curricular awards
+	- **Extra Curricular awards**
 		- Club award for 'Outstanding Contribution to University Sport' - Exeter University Athletic Union
 		- President of Exeter University American Football (60+ members)
 		- 'Best Overall Representative' - Exeter University Student Staff Liaison Committee
@@ -97,6 +87,15 @@ Europe's leading and most selective development bootcamp, a 16-week intensive co
 #### Graduate Management Admissions Test (GMAT)
 
 - Score: 730 (96th percentile)
+
+## Personal Interests
+
+#### Winston Churchill Fellow (2018) - Digital Solutions to Mental Healthcare
+
+I was awarded a highly selective research fellowship by the Winston Churchill Memorial Trust and Mental Health Foundation, for which I will travel to the USA and research the use of digital technology to support good mental health in the workplace (2018).
+
+#### Coding Blog published by Hacker Noon and freeCodeCamp
+Marcus kept a blog alongside his intensive course at Makers, which was read over 12,000 times and published by Makers Academy, Hacker Noon and freeCodeCamp.
 
 ## Experience
 
