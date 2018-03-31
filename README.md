@@ -4,13 +4,9 @@
 
 I am a Junior Developer with the business acumen, communication and delivery skills of a seasoned Management Consultant. I pride myself on software craftsmanship and I am driven by learning.
 
-I am a Software Developer with the business acumen, communication and delivery skills of a Management Consultant. I pride myself on software craftsmanship and I am driven by learning.
+Following 4 years as a Strategy & Operations Consultant at Deloitte, I took part in and won the 150+ hour Makers Academy & ETC Coding Competition. In the intensive 16 week bootcamp that followed, I loved beginning to develop my craft in an environment where the focus was honing a best-practice approach to development.
 
-Following 4 years as a Strategy & Operations Consultant at Deloitte, I took part in and won the 150+ hour Makers Academy & ETC Coding Competition. I loved the intensive 16 week bootcamp that followed. I am looking to work as part of a cutting-edge team to solve difficult logical challenges and be a part of shaping and building what is technologically possible.
-
-Following 4 years as a Strategy & Operations Consultant at Deloitte, I took part in and won the 150+ hour Makers Academy & ETC Coding Competition. In the intensive 16 week bootcamp that followed, I loved developing my craft in an environment where the aspiration was to hone my craft. I am looking to work as part of a cutting-edge team to solve difficult logical challenges and be a part of shaping and building what is technologically possible.
-
-My passion for applying digital solutions to solve real world problems extends beyond my work and education. I will travel to the USA in 2018 as a Winston Churchill and Mental Health Foundation Fellow to research the uses of digital technology to support good mental health.
+I am looking to work as part of a cutting-edge team to solve difficult logical challenges and be a part of shaping and building what is technologically possible.
 
 ------------
 
@@ -94,7 +90,9 @@ Makers Academy is Europe's leading and most selective development bootcamp, a 16
 
 I was awarded a highly selective research fellowship by the Winston Churchill Memorial Trust and Mental Health Foundation, for which I will travel to the USA and research the use of digital technology to support good mental health in the workplace (2018).
 
-#### Coding Blog published by Hacker Noon and freeCodeCamp
+My passion for applying digital solutions to solve real world problems extends beyond my work and education. I will travel to the USA in 2018 as a Winston Churchill and Mental Health Foundation Fellow to research the uses of digital technology to support good mental health.
+
+#### [Coding Blog](https://medium.com/@marcusfgardiner) published by Hacker Noon and freeCodeCamp
 Marcus kept a blog alongside his intensive course at Makers, which was read over 12,000 times and published by Makers Academy, Hacker Noon and freeCodeCamp.
 
 ## Experience
