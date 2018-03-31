@@ -4,7 +4,7 @@
 
 I am an enthusiastic Junior Developer with the business acumen, communication and delivery skills of an experienced Management Consultant. I believe software development is a craft to hone and I am driven by learning.
 
-Following 4 years as a Strategy & Operations Consultant at Deloitte, I won the Makers Academy & ETC Coding Competition. In the intensive 16 week bootcamp that followed, I loved coding in an environment where the focus was honing a best-practice approach to development.
+Following 4 years as a Strategy & Operations Consultant at Deloitte, I won the Makers Academy & ETC Coding Competition. In the intensive 16 week bootcamp that followed, I loved coding in an environment where the focus was developing a best-practice approach to programming.
 
 I want to work as part of a dynamic team to learn, solve difficult challenges and build cutting-edge digital technology.
 
