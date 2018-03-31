@@ -52,7 +52,7 @@ My work In Deloitte's consulting practice was defined by the technical and analy
 
 #### Relationships and teamwork
 
-The brightest points of my working day are the breakthrough moments I have in relationships and teams. The central theme for my personal growth has been the mentors I have had and the people I have been lucky enough to mentor: they have helped me think differently, perform as my best self and ultimately be myself.
+The brightest points of my working day are the breakthrough moments I have in relationships and teams. The central theme for my personal growth has been the mentors I have had and the people I have been lucky enough to mentor: they have helped me learn, think differently and ultimately perform at my best. 
 
 * **Key achievement:** I took great pride in learning and then demystifying technical skills for my colleagues and clients at Deloitte. In 2017, I led the development and delivery of a brand new Strategy & Operations Analytics Bootcamp for over 200 consultants.
 
