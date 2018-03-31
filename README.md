@@ -2,19 +2,11 @@
 
 [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [LinkedIn](https://www.linkedin.com/in/marcus-gardiner-a7131a56/) | [Blog](https://medium.com/@marcusfgardiner)
 
-I am a Junior Developer with the business acumen, communication and delivery skills of a seasoned Management Consultant. I pride myself on software craftsmanship and I am driven by learning.
+I am an enthusiastic Junior Developer with the business acumen, communication and delivery skills of a seasoned Management Consultant. I pride myself on software craftsmanship and I am driven by learning.
 
-Following 4 years as a Strategy & Operations Consultant at Deloitte, I took part in and won the 150+ hour Makers Academy & ETC Coding Competition. In the intensive 16 week bootcamp that followed, I loved beginning to develop my craft in an environment where the focus was honing a best-practice approach to development.
+Following 4 years as a Strategy & Operations Consultant at Deloitte, I won the Makers Academy & ETC Coding Competition. In the intensive 16 week bootcamp that followed, I loved coding in an environment where the focus was honing a best-practice approach to development.
 
-I am looking to work as part of a cutting-edge team to solve difficult logical challenges and be a part of shaping and building what is technologically possible.
-
-------------
-
-I am an analytical Strategy and Operations management consultant at Deloitte, who's unique skillset is an ability to rapidly learn and apply new technical skills and knowledge whilst establishing meaningful relationships as a trusted part of a team and advisor to my clients.
-
-I have independently lead and delivered work streams in international consulting deployments in London, Brazil, Holland and Belgium (and have worked at 15+ global multinationals); analysed, visualised, presented and actioned findings for 300m+ lines of data using VBA, SQL, Tableau and Qlikview; delivered presentations to groups of 30+ people in hedge funds to FTSE 100 companies and automated business processes at FTSE 100 companies by working with developers using SQL, VBA and Blue Prism.
-
-I have directed my career based on a growing interest in technological skills and am keen to pursue my own technical development as a developer - I want to spend more of my time building and using a technical and team-orientated set of strengths to solve difficult logical challenges and be a part of shaping and building what is technologically possible.
+I want to work as part of a dynamic team to learn, solve difficult challenges and build cutting-edge digital technology.
 
 ## Projects
 
@@ -35,25 +27,32 @@ Project | Description | Heroku & GitHub | Technologies Used | Testing Technologi
 * **Version Control:** Git, Github
 * **APIs, Packages, Other:** Twilio API, Heroku, jQuery, OAuth, Devise
 
+
+
+------------------------------------
+
+I am an analytical Strategy and Operations management consultant at Deloitte, who's unique skillset is an ability to rapidly learn and apply new technical skills and knowledge whilst establishing meaningful relationships as a trusted part of a team and advisor to my clients.
+
+As a consultant I independently lead and delivered work streams in international consulting deployments in London, Brazil, Holland and Belgium for over 15 global multinationals; analysed, visualised, presented and actioned findings for 300m+ lines of data using VBA, SQL, Tableau and Qlikview; delivered presentations to groups of 30+ people in hedge funds to FTSE 100 companies and automated business processes at FTSE 100 companies by working with developers using SQL, VBA and Blue Prism.
+
 #### Technical and Analytical
 
 My work In Deloitte's consulting practice has been defined by the technical and analytical edge I have rapidly developed and delivered upon in my client engagements. I am unique in my operating unit in having delivered engagements by using/managing others in using a broad range of technical tools (VBA, SQL, Tableau, Qlikview and Blue Prism).
 
-I have used these skills to deliver analytics and automation projects at some of the world's largest companies. At a Global top 10 consumer business company, I self-taught SQL in order to prove to the team we needed to use it to succeed; and then went on to manage SQL developers and client stakeholders in analysing over 100 million rows of data whilst personally building a leading-edge data visualisation model to present the results in Qlikview - leading to the identification and delivery phase of £200m+ in working capital opportunities. At a Global top 10 pharmaceutical company, I went from having never seen code to co-developing a tool in excel VBA that turned a 5 day data preparation process that included inputs and work from 8 people into one button click.
+I have used these skills to deliver analytics and automation projects at some of the world's largest companies. At a Global top 10 consumer business company, I self-taught SQL in order to prove to the team we needed to use it to succeed; and then went on to manage 2 SQL developers and client stakeholders in analysing over 100 million rows of data whilst simultaneously building a leading-edge data visualisation model in Qlikview - leading to the identification and delivery phase of £200m+ in working capital opportunities. At a Global top 10 pharmaceutical company, I went from having never seen code to co-developing a tool in excel VBA that turned a 5 day data preparation process that included inputs and work from 8 people into one button click.
 
 
 #### Delivering complex projects
 
-I have a breadth of experience in rapidly delivering complex and impactful projects at over 15 global multinationals across the Consumer Business, Manufacturing and Healthcare Life Sciences industries. In doing so, I have taken end-to-end ownership of work streams, for which I have leveraged my analytical and technical skills, managed up to 3 others and planned and delivered numerous workshops, presentations and training courses.
+As a consultant I independently lead and delivered work streams in international consulting deployments in London, Brazil, Holland and Belgium for over 15 global multinationals.
 
-Most recently, I independently lead and delivered the South America work stream for a complex operations change project at a FTSE 100 company. I managed and delivered the work stream end-to-end, including being the point of contact for local stakeholders (including the GM and client lead); creating and delivering content for 12 workshops; facilitating 3 training courses and conducting all aspects of project planning and management.
+Most recently, I delivered the South America work stream for a complex operations change project at a FTSE 100 company. I managed and delivered the work stream end-to-end as the point of contact for all stakeholders (including the client lead); creating and delivering content for 12 workshops; facilitating 3 training courses and conducting all aspects of project planning and delivery.
 
 #### Relationships and teamwork
 
-Consistently, the brightest points of my working day are the breakthrough moments I have in my relationships with the people I work with and my clients. In terms of my development in my career, the central theme has been the mentors I have had and the people I have been lucky enough to mentor: they have helped me think differently, perform as my best self and ultimately be myself at work.
+Consistently, the brightest points of my working day are the breakthrough moments I have in my relationships with the people I work with. In terms of my personal growth, the central theme has been the mentors I have had and the people I have been lucky enough to mentor: they have helped me think differently, perform as my best self and ultimately be myself.
 
-I have always tried to follow what I have been most interested at work, so being part of a team and helping it develop and deliver has been of great importance to me. I take great pride in demystifying analytical and technical skills for colleagues and working with others to apply them. As a result I am currently developing and facilitating Analytics 'Crash Course' Bootcamps and Agile delivery training courses for Deloitte Strategy and Operations.
-
+At Deloitte I took great pride in learning and then demystifying analytical and technical skills for colleagues and clients. I led the development and delivery of the Strategy & Operations Analytics Bootcamp to over 200 consultants.
 
 ## Education
 
@@ -70,15 +69,14 @@ Makers Academy is Europe's leading and most selective development bootcamp, a 16
 
 #### Exeter University (2010 - 2013)
 
-- **1st Class Honours - BA Economics**
-	- 1st Class grade achieved in every graded module
-	- **Academic Awards** (awarded to less than top 3% of students)
-		- School Commendation for 'Outstanding Academic Performance' [2013]
-		- Successive Dean's commendations for 'Outstanding Achievement' [2012, 2011]
-	- **Extra Curricular awards**
-		- Club award for 'Outstanding Contribution to University Sport' - Exeter University Athletic Union
-		- President of Exeter University American Football (60+ members)
-		- 'Best Overall Representative' - Exeter University Student Staff Liaison Committee
+* **1st Class Honours - BA Economics**
+	* **Academic Awards** (awarded to less than top 3% of students)
+		* School Commendation for 'Outstanding Academic Performance' [2013]
+		* Successive Dean's commendations for 'Outstanding Achievement' [2012, 2011]
+	* **Extra Curricular awards**
+		* Club award for 'Outstanding Contribution to University Sport'
+		* President of Exeter University American Football (60+ members)
+		* 'Best Overall Representative' - Exeter University Student Staff Liaison Committee
 
 #### Graduate Management Admissions Test (GMAT)
 
@@ -87,13 +85,10 @@ Makers Academy is Europe's leading and most selective development bootcamp, a 16
 ## Personal Interests
 
 #### Winston Churchill Fellow (2018) - Digital Solutions to Mental Healthcare
-
-I was awarded a highly selective research fellowship by the Winston Churchill Memorial Trust and Mental Health Foundation, for which I will travel to the USA and research the use of digital technology to support good mental health in the workplace (2018).
-
 My passion for applying digital solutions to solve real world problems extends beyond my work and education. I will travel to the USA in 2018 as a Winston Churchill and Mental Health Foundation Fellow to research the uses of digital technology to support good mental health.
 
 #### [Coding Blog](https://medium.com/@marcusfgardiner) published by Hacker Noon and freeCodeCamp
-Marcus kept a blog alongside his intensive course at Makers, which was read over 12,000 times and published by Makers Academy, Hacker Noon and freeCodeCamp.
+I wrote a blog alongside my intensive course at Makers, which was read over 12,000 times and published by Makers Academy, Hacker Noon and freeCodeCamp.
 
 ## Experience
 
