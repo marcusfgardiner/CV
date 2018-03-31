@@ -2,7 +2,7 @@
 
 [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Personal Interests](#Experience) | [Experience](#Experience) | [LinkedIn](https://www.linkedin.com/in/marcus-gardiner-a7131a56/) | [Blog](https://medium.com/@marcusfgardiner)
 
-I am an enthusiastic Junior Developer with the business acumen, communication and delivery skills of an experienced Management Consultant. I pride myself on software craftsmanship and I am driven by learning.
+I am an enthusiastic Junior Developer with the business acumen, communication and delivery skills of an experienced Management Consultant. I believe software development is a craft to hone and I am driven by learning.
 
 Following 4 years as a Strategy & Operations Consultant at Deloitte, I won the Makers Academy & ETC Coding Competition. In the intensive 16 week bootcamp that followed, I loved coding in an environment where the focus was honing a best-practice approach to development.
 
@@ -52,7 +52,7 @@ My work In Deloitte's consulting practice was defined by the technical and analy
 
 #### Relationships and teamwork
 
-The brightest points of my working day are the breakthrough moments I have in relationships and teams. The central theme for my personal growth has been the mentors I have had and the people I have been lucky enough to mentor: they have helped me learn, think differently and ultimately perform at my best. 
+The brightest points of my working day are the breakthrough moments I have in relationships and teams. The central theme for my personal growth has been the mentors I have had and the people I have been lucky enough to mentor: they have helped me learn, think differently and ultimately perform at my best.
 
 * **Key achievement:** I took great pride in learning and then demystifying technical skills for my colleagues and clients at Deloitte. In 2017, I led the development and delivery of a brand new Strategy & Operations Analytics Bootcamp for over 200 consultants.
 
