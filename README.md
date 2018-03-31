@@ -2,7 +2,7 @@
 
 [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Personal Interests](#Experience) | [Experience](#Experience) | [LinkedIn](https://www.linkedin.com/in/marcus-gardiner-a7131a56/) | [Blog](https://medium.com/@marcusfgardiner)
 
-I am an enthusiastic Junior Developer with the business acumen, communication and delivery skills of a seasoned Management Consultant. I pride myself on software craftsmanship and I am driven by learning.
+I am an enthusiastic Junior Developer with the business acumen, communication and delivery skills of an experienced Management Consultant. I pride myself on software craftsmanship and I am driven by learning.
 
 Following 4 years as a Strategy & Operations Consultant at Deloitte, I won the Makers Academy & ETC Coding Competition. In the intensive 16 week bootcamp that followed, I loved coding in an environment where the focus was honing a best-practice approach to development.
 
@@ -87,7 +87,7 @@ Makers Academy is Europe's leading and most selective development bootcamp, a 16
 ## Personal Interests
 
 #### Winston Churchill Fellow (2018) - Digital Solutions to Mental Healthcare
-My passion for applying digital solutions to solve real world problems extends beyond my work and education. I will travel to the USA in 2018 as a Winston Churchill and Mental Health Foundation Fellow to research the uses of digital technology to support good mental health.
+My passion for applying digital solutions to solve real world problems extends beyond my work and education. In 2018 I will travel to the USA as a Winston Churchill and Mental Health Foundation Fellow to research the uses of digital technology to support good mental health.
 
 #### [Coding Blog](https://medium.com/@marcusfgardiner) published by Hacker Noon and freeCodeCamp
 I wrote a blog alongside my intensive course at Makers, which was read over 12,000 times and published by Makers Academy, Hacker Noon and freeCodeCamp.
