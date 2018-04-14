@@ -22,11 +22,12 @@ Project | Description | Deployment & GitHub | Technologies Used | Testing Techno
 
 ## Skills
 
-* **Core Technologies:** JavaScript, ReactJS, Node.js, Express, Ruby, Rails, Sinatra, HTML, SASS, CSS
-* **Testing technologies:** Jest, Nightwatch, RSpec, Capybara, Mocha, Chai, Zombie
+* **Core Technologies:** JavaScript, ReactJS, Node.js, Express, Python, Flask, Ruby, Rails, Sinatra, HTML, SASS, CSS
+* **Testing technologies:** Jest, Nightwatch, RSpec, Capybara, Pytest, Mocha, Chai, Zombie
 * **Databases:** PostgreSQL, ActiveRecord, TablePlus, SQL Server, Datamapper
+* **Deployment:** Docker, AWS, Heroku
 * **Version Control:** Git, Github
-* **APIs, Packages, Other:** Twilio API, Heroku, jQuery, OAuth, Devise
+* **APIs, Packages, Other:** Twitter API, Twilio API, jQuery, OAuth, Devise, NLTK, Sci-kit Learn, Numpy, Pandas
 
 #### Delivering complex projects
 
