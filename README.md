@@ -12,8 +12,6 @@ I want to work as part of a dynamic team to learn rapidly, solve difficult chall
 
 For a complete list, see my [GitHub](https://github.com/marcusfgardiner)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/AmazonWebservices_Logo.svg" width="55">
-
 Project | Description | Deployment & GitHub | Technologies Used | Testing Technologies
 --- | --- | --- | --- | ---
 [SentiMind](http://sentimind.co.uk/) | SentiMind analyses and visualises the live sentiment of the latest 100 tweets using SentiBot, a bot trained using machine learning (Team Challenge) |<a href="http://sentimind.co.uk/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/AmazonWebservices_Logo.svg" width="55"> <a href="http://sentimind.co.uk/"> <img src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2017/08/docker_logo.png" width="55">[![GitHub](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)](https://github.com/marcusfgardiner/SentiMind)| ReactJS, JavaScript, Python, Flask, Docker, AWS, HTML5| Jest, Pytest
