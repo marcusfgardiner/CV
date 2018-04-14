@@ -4,9 +4,9 @@
 
 I am an enthusiastic Junior Developer with the business acumen, communication and delivery skills of an experienced Management Consultant. I believe software development is a craft to hone and I am driven by learning.
 
-Following 4 years as a Strategy & Operations Consultant at Deloitte, I won the Makers Academy & ETC Coding Competition. In the intensive 16 week bootcamp that followed, I loved coding in an environment where the focus was developing a best-practice approach to programming.
+Following 4 years as a Strategy & Operations Consultant at Deloitte, I begun to teach myself how to code and won the Makers Academy & ETC Coding Competition. In the intensive 16 week bootcamp that followed, I loved coding in an environment where the focus was developing a best-practice approach.
 
-I want to work as part of a dynamic team to learn, solve difficult challenges and build cutting-edge digital technology.
+I want to work as part of a dynamic team to learn rapidly, solve difficult challenges and build cutting-edge digital technology.
 
 ## Projects
 
@@ -14,6 +14,7 @@ For a complete list, see my [GitHub](https://github.com/marcusfgardiner)
 
 Project | Description | Heroku & GitHub | Technologies Used | Testing Technologies
 --- | --- | --- | --- | ---
+[SentiMind](http://sentimind.co.uk/) | SentiMind analyses and visualises the live sentiment of the latest 100 tweets using SentiBot, a bot trained using machine learning (Team Challenge) |[![AWS](https://upload.wikimedia.org/wikipedia/commons/1/1d/AmazonWebservices_Logo.svg)](http://sentimind.co.uk/)[![Docker](https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2017/08/docker_logo.png)](http://sentimind.co.uk/)[![GitHub](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)](https://github.com/marcusfgardiner/SentiMind)| ReactJS, JavaScript, Python, Flask, Docker, AWS, HTML5| Jest, Pytest
 [Bowling Scorecard Challenge](https://bowling-challenge-mfg.herokuapp.com/) | A Ten Pin Bowling Scorecard that automates complex score-calculation logic (Solo Challenge) |[![Heroku](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)](https://bowling-challenge-mfg.herokuapp.com/)[![GitHub](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)](https://github.com/marcusfgardiner/bowling-challenge)| JavaScript, CSS, HTML5| Jasmine
 [WellMo](https://wellmo.herokuapp.com/) | WellMo, a wellbeing check-in application, created to learn Test-Driven ReactJS in 5 days (Team Challenge) | [![Heroku](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)](https://wellmo.herokuapp.com/)[![GitHub](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)](https://github.com/marcusfgardiner/WellMo)| ReactJS, JavaScript CSS, HTML5 | Nightwatch, Jest
 [Instagram Challenge](https://instawham.herokuapp.com/) | Instawham, an Instagram-style full-stack rails app that I developed in one day, having learned Ruby on Rails in 5 days. (Solo Challenge) | [![Heroku](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)](https://instawham.herokuapp.com/)[![GitHub](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)](https://github.com/marcusfgardiner/instagram-challenge)| Ruby, Rails, Postgres /w ActiveRecord, OAuth, Devise, HTML5(HAML), SASS | RSpec, Capybara
