@@ -92,7 +92,7 @@ Makers Academy is Europe's leading and most selective development bootcamp, a 16
 My passion for applying digital solutions to solve real world problems extends beyond my work and education. In 2018 I will travel to the USA as a Winston Churchill and Mental Health Foundation Fellow to research the uses of digital technology to support good mental health.
 
 #### [Coding Blog](https://medium.com/@marcusfgardiner) published by Hacker Noon and freeCodeCamp
-I wrote a blog alongside my intensive course at Makers, which was read over 12,000 times and published by Makers Academy, Hacker Noon and freeCodeCamp.
+I wrote a blog alongside my intensive course at Makers, which was read over 14,000 times and published by Makers Academy, Hacker Noon and freeCodeCamp.
 
 ## Experience
 
