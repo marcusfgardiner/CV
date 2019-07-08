@@ -2,7 +2,7 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Personal Interests](#personal-interests) | [Experience](#experience) | [LinkedIn](https://www.linkedin.com/in/marcus-gardiner-a7131a56/) | [Blog](https://medium.com/@marcusfgardiner)
 
-I am an enthusiastic Junior Developer with the business acumen, communication and delivery skills of an experienced Management Consultant. I believe software development is a craft to hone and I am driven by learning.
+I am an enthusiastic Developer with the business acumen, communication and delivery skills of an experienced Management Consultant. I believe software development is a craft to hone and I am driven by learning.
 
 Following 4 years as a Strategy & Operations Consultant at Deloitte, I begun to teach myself how to code and won the Makers Academy & ETC Coding Competition. In the intensive 16 week bootcamp that followed, I loved coding in an environment where the focus was developing a best-practice approach.
 
